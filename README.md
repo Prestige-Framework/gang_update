@@ -78,14 +78,20 @@ this lets you view your `gang reputation level` progress.
 ![image](https://github.com/user-attachments/assets/000a6ea2-ab15-48eb-8ee5-62b6f4c4d40f)
 the control tab shows you how many territories you own and what % of the whole map you control.
 
+---
+
 ## Wars:
 wars allow your gang to take control of another gangs territory
+
+---
 
 ### takeover:
 ![image](https://github.com/user-attachments/assets/c7139558-42ca-493c-8248-bac612464ed7)
 - before you can start a war, your gang will need to build up its `control` in the area.
 - this is represented as `Takeover` progress in the UI.
 - `Takeover` progress is 10% of the total control pool. (if the total is 1,000,000 then the takeover amount is 100,000)
+
+---
 
 ### start war:
 ![image](https://github.com/user-attachments/assets/0b2ad823-22c9-4296-943d-9b99fd1827dc)
@@ -96,6 +102,8 @@ wars allow your gang to take control of another gangs territory
   - gang size
   - `#` of owned territories
   -  wether you are attacking a smaller gang than yours
+
+---
 
 ### War Time:
 - during a war you will be in a tug of war for control against the owners of the territory.
@@ -112,11 +120,15 @@ wars allow your gang to take control of another gangs territory
     - reach a minimum of 80% control.
     - AND have MORE control than the defender
 
+---
+
 
 ## Sprays:
   - sprays offer an AOE (Area Of Effect) rep and control bonus.
   - sprays will expire and be removed automatically.
   - sprays can also be removed early with the `Spray Remover` item.
+
+---
 
 ### Small:
  - Range: 30 meters
@@ -124,11 +136,15 @@ wars allow your gang to take control of another gangs territory
  - expire: 24hrs
  - consumes: 25% of the can
 
+---
+
 ### Medium: 
  - Range: 50 meters
  - bonus: 25% more
  - expire: 48hrs
  - consumes: 50% of the can
+
+---
 
 ### Large: 
  - Range: 100 meters
