@@ -90,7 +90,10 @@ wars allow your gang to take control of another gangs territory
 - before you can start a war, your gang will need to build up its `control` in the area.
 - this is represented as `Takeover` progress in the UI.
 - `Takeover` progress is 10% of the total control pool. (if the total is 1,000,000 then the takeover amount is 100,000)
-
+- there are some special rules for territories that nobody owns:
+  - still reach the max takeover progress
+  - once you have reached the max progress you will go find your territories `Territory Contact` in order to purchase the territory for a significant fee.
+  - you will then own the territory
 ---
 
 ### start war:
