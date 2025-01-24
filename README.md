@@ -8,6 +8,7 @@ fight other gangs for control of 16 territory zones on the map, each with their 
 ## Laptop:
 ### Main:
 ![image](https://github.com/user-attachments/assets/082125ee-8935-447a-b87d-ea447f45f33f)
+
 this tab is a visual representation of the territories and everything they have to offer. It also displays all gangs `control` in the area.
  - each zone has unique perks that become available upon owning the territory. These are available in the UI for you to view on each territory.
  - you will be able to start a war for the territory on this page as well once youve reached enough `control` in the area.
@@ -16,6 +17,7 @@ this tab is a visual representation of the territories and everything they have 
 
 ### Members:
 ![image](https://github.com/user-attachments/assets/b81babdd-3626-4d83-bc19-c6ab9db46302)
+
 this tab allows you to view and manager your members.
  - you can invite new members.
  - kick existing members.
@@ -26,6 +28,7 @@ this tab allows you to view and manager your members.
 
 ### Crew Store:
 ![image](https://github.com/user-attachments/assets/a4725d8b-83bd-4714-a42c-ab6ce8962868)
+
 this tab allows you to spend your gangs `dirty money` in exchange for special and limited items.
 - the stock rotates weekly.
 - sprays and spray remover is always available.
@@ -36,7 +39,8 @@ this tab allows you to spend your gangs `dirty money` in exchange for special an
 
 ### jobs:
 ![image](https://github.com/user-attachments/assets/b8ff4753-ca00-47c6-8b4f-895452a31df9)
-this tab will allow you to access some exclusive to gangs jobs and missions.
+
+this tab will allow you to access some gang exclusive jobs and missions.
 - require a minimum level.
 - require specific items.
 
@@ -44,6 +48,7 @@ this tab will allow you to access some exclusive to gangs jobs and missions.
 
 ### Perms:
 ![image](https://github.com/user-attachments/assets/40f4dc45-1067-4e78-8b12-6e682c575210)
+
 this tab allows you to manage the permissions and name of each rank in your gang.
 - each permission will control how limited that role is in their power inside the gang.
 - names can be anything you like to better fit your gangs `RP`.
@@ -52,6 +57,7 @@ this tab allows you to manage the permissions and name of each rank in your gang
 
 ### Money:
 ![image](https://github.com/user-attachments/assets/3dffb617-0bd9-47ca-afc1-74da732033ab)
+
 this will allow you to view and deposit `dirty money` for your gang account.
 - you can request a drop off which will send you a location within `5-10 minutes`.
 - once you have a location you can go there and drop off `Money Rolls` and `Money Bands`.
@@ -64,15 +70,13 @@ this will allow you to view and deposit `dirty money` for your gang account.
 
 ### Reputation:
 ![image](https://github.com/user-attachments/assets/bd0b2195-b315-4a8c-a549-defebf951d60)
+
 this lets you view your `gang reputation level` progress.
 - gang rep is used to determine your gangs access to various things throughout the system.
 
 ### Control:
 ![image](https://github.com/user-attachments/assets/000a6ea2-ab15-48eb-8ee5-62b6f4c4d40f)
 the control tab shows you how many territories you own and what % of the whole map you control.
-
-
-
 
 ## Wars:
 wars allow your gang to take control of another gangs territory
