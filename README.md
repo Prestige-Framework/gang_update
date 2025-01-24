@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f4b6e7f0-068a-4ced-8570-e860abd5a8ed)# Gang Update
+# Gang Update
 
 ## description:
 fight other gangs for control of 16 territory zones on the map, each with their own benefits.
