@@ -12,6 +12,10 @@ fight other gangs for control of 16 territory zones on the map, each with their 
 this tab is a visual representation of the territories and everything they have to offer. It also displays all gangs `control` in the area.
  - each zone has unique perks that become available upon owning the territory. These are available in the UI for you to view on each territory.
  - you will be able to start a war for the territory on this page as well once youve reached enough `control` in the area.
+ - there is a territory contact located within your territory, marked on your GPS with the black circled crown icon (shown below)
+![image](https://github.com/user-attachments/assets/f2f91edb-a562-4c1c-9f26-2bcb1c4c77cf)
+![image](https://github.com/user-attachments/assets/7ff8eb8f-7ef5-478c-b1a6-bb8cfc0d804f)
+- this territory contact will be where you collect your territory's item(s) as it replenishes (the time varies per item).
 
 ---
 
